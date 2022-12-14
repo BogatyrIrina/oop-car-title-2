@@ -64,7 +64,7 @@ public class Main {
                 ", год выпуска " + hyundai.productionYear +
                 ", страна производства " + hyundai.origin +
                 ", цвет " + hyundai.color +
-                ", объем двигателя " + hyundai.engineVolume);
+                ", объем двигателя " + hyundai.engineVolume+ ".");
 
     }
 }
